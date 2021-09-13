@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843173837119",
+    "project_id": "app-lomonaco-movies",
+    "storage_bucket": "app-lomonaco-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843173837119:android:bbc74e58fa46373b33fb8a",
+        "android_client_info": {
+          "package_name": "br.com.lomonacoflutter.app_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843173837119-cqqt9kuj49c8msb59eldk0klicfb2qrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lomonacoflutter.app_movies",
+            "certificate_hash": "b7df67c9ae090aca523d5b3c48e7bacad32e11da"
+          }
+        },
+        {
+          "client_id": "843173837119-77stc2m03fc7gbbc9200mgd4gkq3qnpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkmhrqE1RbHxiuITAeSUSpH4_uSi2CyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843173837119-77stc2m03fc7gbbc9200mgd4gkq3qnpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
